@@ -1,0 +1,107 @@
+addition :15
+subtraction :5
+multiplication :50
+division :2
+modulus :0
+equal: 1
+not equal :
+greater than :
+less than :1
+greater than or equal to :
+less than or equal to :1
+equal:
+not equal :1
+greater than :
+less than :1
+greater than or equal to :
+less than or equal to :1
+condition is true
+concatenation : anusha vlsi
+replication : vlsivlsivlsi
+PS C:\Users\SK.sattar beebi\OneDrive\Desktop\perl> perl operations.pl
+addition :15
+subtraction :5
+multiplication :50
+division :2
+modulus :0
+equal: 1
+not equal :
+greater than :
+less than :1
+greater than or equal to :
+less than or equal to :1
+equal:
+not equal :1
+greater than :
+less than :1
+greater than or equal to :
+less than or equal to :1
+condition is true
+concatenation : anusha vlsi
+replication : vlsivlsivlsi
+PS C:\Users\SK.sattar beebi\OneDrive\Desktop\perl> perl operations.pl
+addition :15
+subtraction :5
+multiplication :50
+division :2
+modulus :0
+equal: 1
+not equal :
+greater than :
+less than :1
+greater than or equal to :
+less than or equal to :1
+equal:
+not equal :1
+greater than :
+less than :1
+greater than or equal to :
+less than or equal to :1
+condition is true
+concatenation : anusha vlsi
+replication : vlsivlsivlsi
+PS C:\Users\SK.sattar beebi\OneDrive\Desktop\perl> perl operations.pl
+addition :15
+subtraction :5
+multiplication :50
+division :2
+modulus :0
+equal: 1
+not equal :
+greater than :
+less than :1
+greater than or equal to :
+less than or equal to :1
+equal:
+not equal :1
+greater than :
+less than :1
+greater than or equal to :
+less than or equal to :1
+condition is true
+concatenation : anusha vlsi
+vlsi
+vlsi
+vlsi
+
+PS C:\Users\SK.sattar beebi\OneDrive\Desktop\perl> perl operations.pl
+addition :15
+subtraction :5
+multiplication :50
+division :2
+modulus :0
+equal: 1
+not equal :
+greater than :
+less than :1
+greater than or equal to :
+less than or equal to :1
+equal:
+not equal :1
+greater than :
+less than :1
+greater than or equal to :
+less than or equal to :1
+condition is true
+concatenation : anusha vlsi
+vlsi vlsi vlsi
